@@ -65,6 +65,125 @@
          "longDesc": "Kênh VOV3 Thể thao giải trí."
      },
      {
+         "name": "VOV5",
+         "streamURL": "http://118.69.211.87:1935/vov5/vov5.stream_aac/playlist.m3u8",
+         "imageURL": "https://cdn.webrad.io/images/logos/radioonline-vn/vov5-105-5-fm.png",
+         "desc": "Kênh VOV5 105.5FM ",
+         "longDesc": "Kênh VOV5 Tiếng dân tộc."
+     },
+     {
+         "name": "VOH",
+         "streamURL": "http://120.72.118.102:1935/live/channel3/playlist.m3u8",
+         "imageURL": "https://cdn.webrad.io/images/logos/radioonline-vn/voh-99-9-fm.png",
+         "desc": "Kênh VOH 99.9FM",
+         "longDesc": "Kênh VOH 99.9FM."
+     },
+     {
+         "name": "VOH",
+         "streamURL": "http://120.72.118.102:1935/live/channel3/playlist.m3u8",
+         "imageURL": "https://cdn.webrad.io/images/logos/radioonline-vn/voh-99-9-fm.png",
+         "desc": "Kênh VOH 99.9FM",
+         "longDesc": "Kênh VOH 99.9FM."
+     },
+     {
+         "name": "VOH",
+         "streamURL": "http://120.72.118.102:1935/live/channel1/playlist.m3u8",
+         "imageURL": "https://cdn.webrad.io/images/logos/radioonline-vn/voh-95-6-fm.png",
+         "desc": "Kênh VOH 95.6FM",
+         "longDesc": "Kênh VOH 95.6FM."
+     },
+     {
+         "name": "VOH",
+         "streamURL": "http://120.72.118.102:1935/live/channel2/playlist.m3u8",
+         "imageURL": "https://cdn.webrad.io/images/logos/radioonline-vn/voh-610-am.png",
+         "desc": "Kênh VOH 610AM",
+         "longDesc": "Kênh VOH 610AM."
+     },
+     {
+         "name": "VOH",
+         "streamURL": "http://120.72.118.102:1935/live/channel2/playlist.m3u8",
+         "imageURL": "https://cdn.webrad.io/images/logos/radioonline-vn/voh-610-am.png",
+         "desc": "Kênh VOH 610AM",
+         "longDesc": "Kênh VOH 610AM."
+     },
+     {
+         "name": "VABC",
+         "streamURL": "http://209.239.123.91:8239/stream/1/",
+         "imageURL": "https://cdn.webrad.io/images/logos/radioonline-vn/radio-viet-nam-hai-ngoai.png",
+         "desc": "Kênh VABC",
+         "longDesc": "Radio Viet Nam Hai Ngoai - Vietnamese Public Radio Washington DC."
+     },
+     {
+         "name": "NHK Viet Nam",
+         "streamURL": "https://nhkwrj-i.akamaihd.net/hls/live/263949/nhkwrj/01.m3u8",
+         "imageURL": "https://cdn.webrad.io/images/logos/radioonline-vn/nhk-vietnam.png",
+         "desc": "Kênh NHK Viet Nam",
+         "longDesc": "Kênh NHK Viet Nam."
+     },
+     {
+         "name": "Radio Tieng Nuroc Toi",
+         "streamURL": "http://162.244.80.118:3092/stream/1/",
+         "imageURL": "https://cdn.webrad.io/images/logos/radioonline-vn/radio-tieng-nuroc-toi.png",
+         "desc": "Kênh Radio Tieng Nuroc Toi",
+         "longDesc": "Kênh Radio Tieng Nuroc Toi."
+     },
+     {
+         "name": "Radio Bà Rịa-Vũng Tàu",
+         "streamURL": "http://113.163.216.23:1935/live/radio1.sdp_audio/playlist.m3u8",
+         "imageURL": "https://cdn.webrad.io/images/logos/radioonline-vn/radio-ba-ria-vung-tau.png",
+         "desc": "Kênh Radio Bà Rịa-Vũng Tàu",
+         "longDesc": "Kênh Radio Bà Rịa-Vũng Tàu."
+     },
+     {
+         "name": "Radio Bình Thuận",
+         "streamURL": "http://202.43.109.142:1935/thbtradio/btradio/playlist.m3u8",
+         "imageURL": "https://cdn.webrad.io/images/logos/radioonline-vn/radio-binh-thuan.png",
+         "desc": "Kênh Radio Bình Thuận",
+         "longDesc": "Kênh Radio Bình Thuận."
+     },
+     {
+         "name": "Radio Bình Phước",
+         "streamURL": "http://118.69.197.145/hls/radio.m3u8",
+         "imageURL": "https://cdn.webrad.io/images/logos/radioonline-vn/radio-binh-phuoc.png",
+         "desc": "Kênh Radio Bình Phước",
+         "longDesc": "Kênh Radio Bình Phước."
+     },
+     {
+         "name": "Radio Cà Mau",
+         "streamURL": "http://tv.ctvcamau.vn/live/radio/radio.m3u8",
+         "imageURL": "https://cdn.webrad.io/images/logos/radioonline-vn/radio-ca-mau.png",
+         "desc": "Kênh Radio Cà Mau",
+         "longDesc": "Kênh Radio Cà Mau."
+     },
+     {
+         "name": "Radio Cần Thơ 97.3 FM",
+         "streamURL": "http://tv.canthotv.vn/live/radio/radio.m3u8",
+         "imageURL": "https://cdn.webrad.io/images/logos/radioonline-vn/radio-can-tho-97-3-fm.png",
+         "desc": "Kênh Radio Cần Thơ 97.3 FM",
+         "longDesc": "Kênh Radio Cần Thơ 97.3 FM."
+     },
+     {
+         "name": "Radio Đà Nẵng 96.3 FM",
+         "streamURL": "http://drtdnglive.e49a7c38.cdnviet.com/liveradio/playlist.m3u8",
+         "imageURL": "https://cdn.webrad.io/images/logos/radioonline-vn/radio-da-nang-96-3-fm.png",
+         "desc": "Kênh Radio Đà Nẵng 96.3 FM",
+         "longDesc": "Kênh Radio Đà Nẵng 96.3 FM."
+     },
+     {
+         "name": "Radio Hà Nội FM96",
+         "streamURL": "http://cdn.mediatech.vn/hntvRadio/fm96.sdp_aac/playlist.m3u8",
+         "imageURL": "https://cdn.webrad.io/images/logos/radioonline-vn/radio-ha-noi-fm96.png",
+         "desc": "Kênh Radio Hà Nội FM96",
+         "longDesc": "Kênh Radio Hà Nội FM96."
+     },
+     {
+         "name": "Radio Hà Nội FM90",
+         "streamURL": "http://123.30.185.126/hls/hn1audio.m3u8",
+         "imageURL": "https://cdn.webrad.io/images/logos/radioonline-vn/radio-fm90.png",
+         "desc": "Kênh Radio Hà Nội FM90",
+         "longDesc": "Kênh Radio Hà Nội FM90."
+     },
+     {
          "name": "Triple J",
          "streamURL": "https://abcradiolivehls-lh.akamaihd.net/i/triplejnsw_1@327300/index_64_a-b.m3u8",
          "imageURL": "https://cdn.webrad.io/images/logos/radioau-net/triple-j-105-7-fm.png",
