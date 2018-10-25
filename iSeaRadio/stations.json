@@ -184,6 +184,69 @@
          "longDesc": "Kênh Radio Hà Nội FM90."
      },
      {
+         "name": "Radio Khánh Hoà",
+         "streamURL": "http://210.245.20.94/hls/radio.m3u8",
+         "imageURL": "https://cdn.webrad.io/images/logos/radioonline-vn/radio-khanh-hoa.png",
+         "desc": "Kênh Radio Khánh Hoà",
+         "longDesc": "Kênh Radio Khánh Hoà."
+     },
+     {
+         "name": "Radio Kiên Giang",
+         "streamURL": "http://tv.kgtv.vn/live/kgaudio/kgaudio.m3u8",
+         "imageURL": "https://cdn.webrad.io/images/logos/radioonline-vn/radio-kien-giang.png",
+         "desc": "Kênh Radio Kiên Giang",
+         "longDesc": "Kênh Radio Kiên Giang."
+     },
+     {
+         "name": "Radio Ninh Bình",
+         "streamURL": "http://117.6.94.35:8001/",
+         "imageURL": "https://cdn.webrad.io/images/logos/radioonline-vn/radio-ninh-binh.png",
+         "desc": "Kênh Radio Ninh Bình",
+         "longDesc": "Kênh Radio Ninh Bình."
+     },
+     {
+         "name": "Radio Sóc Trăng",
+         "streamURL": "http://115.78.3.164/live/FMsoctrang/playlist.m3u8",
+         "imageURL": "https://cdn.webrad.io/images/logos/radioonline-vn/radio-soc-trang.png",
+         "desc": "Kênh Radio Sóc Trăng",
+         "longDesc": "Kênh Radio Sóc Trăng."
+     },
+     {
+         "name": "Radio Thừa Thiên Huế",
+         "streamURL": "http://115.78.3.164/live/FMsoctrang/playlist.m3u8",
+         "imageURL": "https://cdn.webrad.io/images/logos/radioonline-vn/radio-thua-thien-hue.png",
+         "desc": "Kênh Radio Thừa Thiên Huế",
+         "longDesc": "Kênh Radio Thừa Thiên Huế."
+     },
+     {
+         "name": "Radio Bắc Giang",
+         "streamURL": "http://cdn.mediatech.vn/bgtv/radiolive.m3u8",
+         "imageURL": "https://cdn.webrad.io/images/logos/radioonline-vn/radio-bac-giang.png",
+         "desc": "Kênh Radio Bắc Giang",
+         "longDesc": "Kênh Radio Bắc Giang."
+     },
+     {
+         "name": "Radio Hà Tĩnh",
+         "streamURL": "http://hatinhtv.vn/phatthanh/m3u8/audio.m3u8",
+         "imageURL": "https://cdn.webrad.io/images/logos/radioonline-vn/radio-ha-tinh.png",
+         "desc": "Kênh Radio Hà Tĩnh",
+         "longDesc": "Kênh Radio Hà Tĩnh."
+     },
+     {
+         "name": "Radio Phú Yên",
+         "streamURL": "http://113.161.4.48:8080/phuyen/radio.m3u8",
+         "imageURL": "https://cdn.webrad.io/images/logos/radioonline-vn/radio-phu-yen.png",
+         "desc": "Kênh Radio Phú Yên",
+         "longDesc": "Kênh Radio Phú Yên."
+     },
+     {
+         "name": "Radio Quảng Ninh QNR1",
+         "streamURL": "http://cdn.webrad.io/swf/20170601/soundmanager2_flash9.swf",
+         "imageURL": "https://cdn.webrad.io/images/logos/radioonline-vn/radio-quang-ninh-qnr1.png",
+         "desc": "Kênh Radio Quảng Ninh QNR1",
+         "longDesc": "Kênh Radio Quảng Ninh QNR1."
+     },
+     {
          "name": "Triple J",
          "streamURL": "https://abcradiolivehls-lh.akamaihd.net/i/triplejnsw_1@327300/index_64_a-b.m3u8",
          "imageURL": "https://cdn.webrad.io/images/logos/radioau-net/triple-j-105-7-fm.png",
